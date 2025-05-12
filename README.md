@@ -18,7 +18,8 @@ CRUD Operations: Create, Read, Update, and Delete functionality
 User-Friendly: Intuitive table views and forms
 
 ## Database Schema
-Database Schema (Schema diagram would go here)
+![diagram](https://github.com/user-attachments/assets/e20bfe14-2a7f-4905-9753-0f1d9ad19cb4)
+
 
 ## Installation
 ### Database Setup:
